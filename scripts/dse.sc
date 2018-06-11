@@ -62,25 +62,30 @@ def mdForPage(u: Cite2Urn, dse: DseVector, c: Corpus): String = {
 
 
 
-def textToDseDiff(dse: DseVector, corpus: Corpus) : String = {
+def textToDseDiff(dse: DseVector, corpus: Corpus, surface: Cite2Urn) : String = {
   val bldr = StringBuilder.newBuilder
-  bldr.append("## Coherence of edition to DSE relations\n\n")
-  val textSet = corpus.nodes.map(_.urn).toSet
-  val dseSet = dse.passages.map(_.passage).toSet
-  if (textSet == dseSet) {
-    bldr.append("\n\nTexts cited in DSE records match texts in editions.\n\n")
+
+  val imgs = dse.imagesForTbs(surface)
+  if (imgs.size != 1) {
+    bldr.append(s"Could not analyze page ${surface}:  matched ${imgs.size} images (" + imgs.mkString(" ") + ")")
   } else {
-    bldr.append("\n\nThere were inconsistencies between text editions and texts cited in DSE records\n\n")
-    val common = textSet.intersect(dseSet)
-    val textOnly = textSet.diff(common)
-    val dseOnly = dseSet.diff(common)
-    if (textOnly.nonEmpty) {
-      bldr.append("The following passages in edited texts did not appear in DSE records:\n\n-  ")
-      bldr.append(textOnly.mkString("\n-  ") + "\n\n")
+    bldr.append("## Coherence of DSE relations to text editions\n\n")
+
+
+    val dsePassages = dse.textsForImage(imgs.head)
+    println("Checking on " + dsePassages.size + " passages in DSE records...")
+    val accountedFor = for (psg <- dsePassages) yield {
+      print("\t" + psg + " ... ")
+      val matches = corpus ~~ psg
+      val inCorpus = (matches.size > 0)
+      println(inCorpus)
+      (psg, inCorpus)
     }
-    if (dseOnly.nonEmpty) {
-      bldr.append("The following passages in DSE records did not appear in text editions:\n\n-  ")
-      bldr.append(dseOnly.mkString("\n-  ") + "\n\n")
+    val errors = accountedFor.filterNot(_._2).map{ case (urn, success) => "-  " + urn.toString}
+    if (errors.nonEmpty) {
+      bldr.append("The following passages in DSE records do not appear in the text corpus:\n\n" + errors.mkString("\n") + "\n\n")
+    } else {
+      bldr.append("All passages in DSE records appear in the text corpus.")
     }
   }
   bldr.toString
@@ -94,7 +99,7 @@ def textToDseDiff(dse: DseVector, corpus: Corpus) : String = {
 def pageView(pg: Cite2Urn, dse: DseVector, c: Corpus) : Unit= {
   val bldr = StringBuilder.newBuilder
   bldr.append(mdForPage(pg, dse, c))
-  bldr.append(textToDseDiff(dse,c))
+  bldr.append(textToDseDiff(dse,c, pg))
 
 
   bldr.append("## Human verification\n\n")
@@ -106,6 +111,7 @@ def pageView(pg: Cite2Urn, dse: DseVector, c: Corpus) : Unit= {
 
 def validate(pageUrn: String, corpus: Corpus) : Unit = {
   val u = Cite2Urn(pageUrn)
+  println("Validating page " + u + "...")
   pageView(u, dse, corpus)
 }
 
