@@ -4,20 +4,8 @@ import org.homermultitext.edmodel._
 import java.io.PrintWriter
 
 
-// Create a text repository.
-val catalog = "editions/catalog.cex"
-val citation = "editions/citation.cex"
-val editions = "editions"
-
-val textRepo = TextRepositorySource.fromFiles(catalog, citation, editions)
-
-val corpus = Corpus(textRepo.corpus.nodes.filterNot((_.urn.toString.contains("ref"))))
-//val tokens = TeiReader.fromCorpus(textRepo.corpus)
-
 case class StringCount(s: String, count: Int)
-
 case class StringOccurrence(urn: CtsUrn, s: String)
-
 
 def profileTokens(tokens: Vector[TokenAnalysis]) {
   val tokenTypes = tokens.map(_.analysis.lexicalCategory).distinct

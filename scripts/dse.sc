@@ -61,7 +61,7 @@ def mdForPage(u: Cite2Urn, dse: DseVector, c: Corpus): String = {
 }
 
 
-// Not ready yet:  need to prepare scholia to level indexed in DSE
+
 def textToDseDiff(dse: DseVector, corpus: Corpus) : String = {
   val bldr = StringBuilder.newBuilder
   bldr.append("## Coherence of edition to DSE relations\n\n")
@@ -94,7 +94,7 @@ def textToDseDiff(dse: DseVector, corpus: Corpus) : String = {
 def pageView(pg: Cite2Urn, dse: DseVector, c: Corpus) : Unit= {
   val bldr = StringBuilder.newBuilder
   bldr.append(mdForPage(pg, dse, c))
-  //bldr.append(textToDseDiff(dse,c))
+  bldr.append(textToDseDiff(dse,c))
 
 
   bldr.append("## Human verification\n\n")
