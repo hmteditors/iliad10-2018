@@ -2,5 +2,6 @@ The file `validation.cex` records the validation status of each page we've exami
 
 Possible values for "status" are:
 
--  tbd
--  dse
+1.   tbd
+2.   dse
+3.   textprofile
