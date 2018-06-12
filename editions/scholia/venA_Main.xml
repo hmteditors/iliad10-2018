@@ -1076,8 +1076,8 @@
                           </div>
                           <div n="comment">
                               <p>ὅτι τὸ πονέεσθαι ἐπι τοῦ ἐνεργεῖν, καθ εαυτὸ δὲ ἀναγνωστέον τὸ <q>ὡς
-                                      εὕδει</q> ἐν θαυμασμῷ: ἠ τοῖς ἄνω συναπτέον <cit type="ref"
-                                      n="urn:cts:greekLit:tlg0012.tlg001.msA:10.115">
+                                      εὕδει</q> ἐν θαυμασμῷ: ἠ τοῖς ἄνω συναπτέον <cit><ref type="urn">
+                                      urn:cts:greekLit:tlg0012.tlg001.msA:10.115</ref>
                                       <q>νεικέσω</q>
                                   </cit>
                                   <q>ὡς ευδει</q><del>ἐν θαυμασμῷ· ἠ τοῖς ἄνω συναπτέον</del></p>
@@ -1092,13 +1092,12 @@
                           </div>
                           <div n="comment">
                               <p>φιλαδέλφως ἀπολογεῖται δύο δέ ἐστι δι ὧν γράφει, ῥαθυμία, ἀμέλεια καὶ
-                                  ἄνοια καὶ ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title><choice>
+                                  ἄνοια καὶ ἐν <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><choice>
                                           <abbr>Οδ</abbr>
                                           <expan>Ὀδυσσείᾳ </expan>
-                                      </choice></title></ref>
-                                  <cit>
-                                      <q type="ref" n="urn:cts:greekLit:tlg0012.tlg002:4.371-372">
-                                          νήπιος. ἠὲ χαλίφρων ἠὲ ἑκών μεθίει</q>
+                                      </choice></ref></title>
+                                  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:4.371-4.372</ref>
+                                      <q>νήπιος. ἠὲ χαλίφρων ἠὲ ἑκών μεθίει</q>
                                   </cit> ὥστε τὸ δοκοῦν ἁμάρτημα εἰς εγκώμιον τῆς
                                           <w>π<unclear>ει</unclear>θαρχίας</w> περιΐσταται ⁑</p>
                           </div>
