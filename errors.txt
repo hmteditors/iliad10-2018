@@ -1,0 +1,120 @@
+
+urn:cts:greekLit:tlg0012.tlg001.msA.tokens:10.534.5 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msAext.hmt.tokens:10.1011.1 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msAext.hmt.tokens:10.1513.1 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msAext.hmt.tokens:10.1513.2 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msAext.hmt.tokens:10.2547.1 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msAext.hmt.tokens:10.3526.1 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msAext.hmt.tokens:10.3526.2 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msAext.hmt.tokens:10.4559.1 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msAext.hmt.tokens:10.4592.1 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msAext.hmt.tokens:10.4592.2 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.2.67 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.2.68 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.2.69 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.2.70 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.2.71 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.2.72 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.2.73 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1001.17 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1001.18 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1001.19 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1001.20 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1006.27 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1006.30 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1006.31 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1006.32 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1006.33 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1006.34 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1006.35 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1007.20 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1007.21 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1007.22 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1007.23 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1007.24 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1007.25 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.1007.26 has 1 error(s)
+	Invalid structure: cit should have both q and ref children
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.2501.6 has 1 error(s)
+	unrecognized value for @type attribute on rs element astro
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.2501.7 has 1 error(s)
+	unrecognized value for @type attribute on rs element astro
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.2544.15 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.2544.54 has 1 error(s)
+	Invalid element name: del
+
+urn:cts:greekLit:tlg5026.msA.hmt.tokens:10.4513.6 has 1 error(s)
+	Invalid element name: del

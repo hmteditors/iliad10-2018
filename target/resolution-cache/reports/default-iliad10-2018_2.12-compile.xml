@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="iliad10-2018_2.12"
+		revision="0.1-SNAPSHOT"
+		conf="compile"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20180611123207"/>
+	<dependencies>
+		<module organisation="org.homermultitext" name="hmtcexbuilder_2.12">
+			<revision name="3.1.1" status="release" pubdate="20180529025212" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="14">
+				<license name="GPL-3.0" url="https://opensource.org/licenses/gpl-3.0.html"/>
+				<metadata-artifact status="no" details="" size="3800" time="0" location="/Users/oxygen/.ivy2/cache/org.homermultitext/hmtcexbuilder_2.12/ivy-3.1.1.xml" searched="false" origin-is-local="false" origin-location="https://dl.bintray.com/neelsmith/maven/org/homermultitext/hmtcexbuilder_2.12/3.1.1/hmtcexbuilder_2.12-3.1.1.pom"/>
+				<caller organisation="default" name="iliad10-2018_2.12" conf="compile" rev="3.1.1" rev-constraint-default="3.1.1" rev-constraint-dynamic="3.1.1" callerrev="0.1-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="hmtcexbuilder_2.12" type="jar" ext="jar" status="no" details="" size="38563" time="0" location="/Users/oxygen/.ivy2/cache/org.homermultitext/hmtcexbuilder_2.12/jars/hmtcexbuilder_2.12-3.1.1.jar">
+						<origin-location is-local="false" location="https://dl.bintray.com/neelsmith/maven/org/homermultitext/hmtcexbuilder_2.12/3.1.1/hmtcexbuilder_2.12-3.1.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.homermultitext" name="hmt-textmodel_2.12">
+			<revision name="2.2.3" status="release" pubdate="20180528161845" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="10">
+				<license name="GPL-3.0" url="https://opensource.org/licenses/gpl-3.0.html"/>
+				<metadata-artifact status="no" details="" size="3652" time="0" location="/Users/oxygen/.ivy2/cache/org.homermultitext/hmt-textmodel_2.12/ivy-2.2.3.xml" searched="false" origin-is-local="false" origin-location="https://dl.bintray.com/neelsmith/maven/org/homermultitext/hmt-textmodel_2.12/2.2.3/hmt-textmodel_2.12-2.2.3.pom"/>
+				<caller organisation="org.homermultitext" name="hmtcexbuilder_2.12" conf="default, compile, runtime, master" rev="2.2.3" rev-constraint-default="2.2.3" rev-constraint-dynamic="2.2.3" callerrev="3.1.1"/>
+				<caller organisation="default" name="iliad10-2018_2.12" conf="compile" rev="2.2.3" rev-constraint-default="2.2.3" rev-constraint-dynamic="2.2.3" callerrev="0.1-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="hmt-textmodel_2.12" type="jar" ext="jar" status="no" details="" size="129197" time="0" location="/Users/oxygen/.ivy2/cache/org.homermultitext/hmt-textmodel_2.12/jars/hmt-textmodel_2.12-2.2.3.jar">
+						<origin-location is-local="false" location="https://dl.bintray.com/neelsmith/maven/org/homermultitext/hmt-textmodel_2.12/2.2.3/hmt-textmodel_2.12-2.2.3.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="edu.holycross.shot" name="gsphone_2.12">
+			<revision name="1.1.0" status="release" pubdate="20180329081403" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="13">
+				<license name="GPL-3.0" url="https://opensource.org/licenses/gpl-3.0.html"/>
+				<metadata-artifact status="no" details="" size="3038" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/gsphone_2.12/ivy-1.1.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/edu/holycross/shot/gsphone_2.12/1.1.0/gsphone_2.12-1.1.0.pom"/>
+				<caller organisation="org.homermultitext" name="hmt-textmodel_2.12" conf="default, compile, runtime, master" rev="1.1.0" rev-constraint-default="1.1.0" rev-constraint-dynamic="1.1.0" callerrev="2.2.3"/>
+				<artifacts>
+					<artifact name="gsphone_2.12" type="jar" ext="jar" status="no" details="" size="12346" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/gsphone_2.12/jars/gsphone_2.12-1.1.0.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/edu/holycross/shot/gsphone_2.12/1.1.0/gsphone_2.12-1.1.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="edu.holycross.shot" name="greek_2.12">
+			<revision name="1.4.0" status="release" pubdate="20180329074148" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="12">
+				<license name="GPL-3.0" url="https://opensource.org/licenses/gpl-3.0.html"/>
+				<metadata-artifact status="no" details="" size="2885" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/greek_2.12/ivy-1.4.0.xml" searched="false" origin-is-local="false" origin-location="https://dl.bintray.com/neelsmith/maven/edu/holycross/shot/greek_2.12/1.4.0/greek_2.12-1.4.0.pom"/>
+				<caller organisation="org.homermultitext" name="hmt-textmodel_2.12" conf="default, compile, runtime, master" rev="1.4.0" rev-constraint-default="1.4.0" rev-constraint-dynamic="1.4.0" callerrev="2.2.3"/>
+				<caller organisation="edu.holycross.shot" name="gsphone_2.12" conf="compile, runtime" rev="1.4.0" rev-constraint-default="1.4.0" rev-constraint-dynamic="1.4.0" callerrev="1.1.0"/>
+				<artifacts>
+					<artifact name="greek_2.12" type="jar" ext="jar" status="no" details="" size="40447" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/greek_2.12/jars/greek_2.12-1.4.0.jar">
+						<origin-location is-local="false" location="https://dl.bintray.com/neelsmith/maven/edu/holycross/shot/greek_2.12/1.4.0/greek_2.12-1.4.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="edu.holycross.shot" name="orca_2.12">
+			<revision name="4.1.0" status="release" pubdate="20180528161249" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="11">
+				<license name="GPL-3.0" url="https://opensource.org/licenses/gpl-3.0.html"/>
+				<metadata-artifact status="no" details="" size="3182" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/orca_2.12/ivy-4.1.0.xml" searched="false" origin-is-local="false" origin-location="https://dl.bintray.com/neelsmith/maven/edu/holycross/shot/orca_2.12/4.1.0/orca_2.12-4.1.0.pom"/>
+				<caller organisation="org.homermultitext" name="hmt-textmodel_2.12" conf="default, compile, runtime, master" rev="4.1.0" rev-constraint-default="4.1.0" rev-constraint-dynamic="4.1.0" callerrev="2.2.3"/>
+				<artifacts>
+					<artifact name="orca_2.12" type="jar" ext="jar" status="no" details="" size="28016" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/orca_2.12/jars/orca_2.12-4.1.0.jar">
+						<origin-location is-local="false" location="https://dl.bintray.com/neelsmith/maven/edu/holycross/shot/orca_2.12/4.1.0/orca_2.12-4.1.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="edu.holycross.shot" name="dse_2.12">
+			<revision name="3.1.0" status="release" pubdate="20180528160432" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="6">
+				<license name="GPL-3.0" url="https://opensource.org/licenses/gpl-3.0.html"/>
+				<metadata-artifact status="no" details="" size="3473" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/dse_2.12/ivy-3.1.0.xml" searched="false" origin-is-local="false" origin-location="https://dl.bintray.com/neelsmith/maven/edu/holycross/shot/dse_2.12/3.1.0/dse_2.12-3.1.0.pom"/>
+				<caller organisation="org.homermultitext" name="hmtcexbuilder_2.12" conf="default, compile, runtime, master" rev="3.1.0" rev-constraint-default="3.1.0" rev-constraint-dynamic="3.1.0" callerrev="3.1.1"/>
+				<caller organisation="default" name="iliad10-2018_2.12" conf="compile" rev="3.1.0" rev-constraint-default="3.1.0" rev-constraint-dynamic="3.1.0" callerrev="0.1-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="dse_2.12" type="jar" ext="jar" status="no" details="" size="37316" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/dse_2.12/jars/dse_2.12-3.1.0.jar">
+						<origin-location is-local="false" location="https://dl.bintray.com/neelsmith/maven/edu/holycross/shot/dse_2.12/3.1.0/dse_2.12-3.1.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="edu.holycross.shot" name="scm_2.12">
+			<revision name="6.1.0" status="release" pubdate="20180528151719" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="8">
+				<license name="GPL-3.0" url="https://opensource.org/licenses/gpl-3.0.html"/>
+				<metadata-artifact status="no" details="" size="3628" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/scm_2.12/ivy-6.1.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/edu/holycross/shot/scm_2.12/6.1.0/scm_2.12-6.1.0.pom"/>
+				<caller organisation="org.homermultitext" name="hmtcexbuilder_2.12" conf="default, compile, runtime, master" rev="6.1.0" rev-constraint-default="6.1.0" rev-constraint-dynamic="6.1.0" callerrev="3.1.1"/>
+				<caller organisation="default" name="iliad10-2018_2.12" conf="compile" rev="6.1.0" rev-constraint-default="6.1.0" rev-constraint-dynamic="6.1.0" callerrev="0.1-SNAPSHOT"/>
+				<caller organisation="edu.holycross.shot" name="dse_2.12" conf="default, compile, runtime, master" rev="6.1.0" rev-constraint-default="6.1.0" rev-constraint-dynamic="6.1.0" callerrev="3.1.0"/>
+				<artifacts>
+					<artifact name="scm_2.12" type="jar" ext="jar" status="no" details="" size="41570" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/scm_2.12/jars/scm_2.12-6.1.0.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/edu/holycross/shot/scm_2.12/6.1.0/scm_2.12-6.1.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="edu.holycross.shot" name="citerelations_2.12">
+			<revision name="2.2.0" status="release" pubdate="20180528150919" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="9">
+				<license name="GPL-3.0" url="https://opensource.org/licenses/gpl-3.0.html"/>
+				<metadata-artifact status="no" details="" size="3206" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/citerelations_2.12/ivy-2.2.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/edu/holycross/shot/citerelations_2.12/2.2.0/citerelations_2.12-2.2.0.pom"/>
+				<caller organisation="org.homermultitext" name="hmtcexbuilder_2.12" conf="default, compile, runtime, master" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="3.1.1"/>
+				<caller organisation="edu.holycross.shot" name="scm_2.12" conf="compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="6.1.0"/>
+				<caller organisation="default" name="iliad10-2018_2.12" conf="compile" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="0.1-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="citerelations_2.12" type="jar" ext="jar" status="no" details="" size="18382" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/citerelations_2.12/jars/citerelations_2.12-2.2.0.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/edu/holycross/shot/citerelations_2.12/2.2.0/citerelations_2.12-2.2.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="edu.holycross.shot" name="citeobj_2.12">
+			<revision name="7.0.2" status="release" pubdate="20180528140209" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="7">
+				<license name="GPL-3.0" url="https://opensource.org/licenses/gpl-3.0.html"/>
+				<metadata-artifact status="no" details="" size="3188" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/citeobj_2.12/ivy-7.0.2.xml" searched="false" origin-is-local="false" origin-location="https://dl.bintray.com/neelsmith/maven/edu/holycross/shot/citeobj_2.12/7.0.2/citeobj_2.12-7.0.2.pom"/>
+				<caller organisation="edu.holycross.shot" name="scm_2.12" conf="compile, runtime" rev="7.0.2" rev-constraint-default="7.0.2" rev-constraint-dynamic="7.0.2" callerrev="6.1.0"/>
+				<caller organisation="edu.holycross.shot" name="dse_2.12" conf="default, compile, runtime, master" rev="7.0.2" rev-constraint-default="7.0.2" rev-constraint-dynamic="7.0.2" callerrev="3.1.0"/>
+				<artifacts>
+					<artifact name="citeobj_2.12" type="jar" ext="jar" status="no" details="" size="130242" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/citeobj_2.12/jars/citeobj_2.12-7.0.2.jar">
+						<origin-location is-local="false" location="https://dl.bintray.com/neelsmith/maven/edu/holycross/shot/citeobj_2.12/7.0.2/citeobj_2.12-7.0.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="edu.holycross.shot" name="ohco2_2.12">
+			<revision name="10.8.1" status="release" pubdate="20180528124239" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="2">
+				<license name="GPL-3.0" url="https://opensource.org/licenses/gpl-3.0.html"/>
+				<metadata-artifact status="no" details="" size="3487" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/ohco2_2.12/ivy-10.8.1.xml" searched="false" origin-is-local="false" origin-location="https://dl.bintray.com/neelsmith/maven/edu/holycross/shot/ohco2_2.12/10.8.1/ohco2_2.12-10.8.1.pom"/>
+				<caller organisation="org.homermultitext" name="hmtcexbuilder_2.12" conf="default, compile, runtime, master" rev="10.8.1" rev-constraint-default="10.8.1" rev-constraint-dynamic="10.8.1" callerrev="3.1.1"/>
+				<caller organisation="edu.holycross.shot" name="scm_2.12" conf="compile, runtime" rev="10.8.1" rev-constraint-default="10.8.1" rev-constraint-dynamic="10.8.1" callerrev="6.1.0"/>
+				<caller organisation="org.homermultitext" name="hmt-textmodel_2.12" conf="default, compile, runtime, master" rev="10.8.1" rev-constraint-default="10.8.1" rev-constraint-dynamic="10.8.1" callerrev="2.2.3"/>
+				<caller organisation="default" name="iliad10-2018_2.12" conf="compile" rev="10.8.1" rev-constraint-default="10.8.1" rev-constraint-dynamic="10.8.1" callerrev="0.1-SNAPSHOT"/>
+				<caller organisation="edu.holycross.shot" name="dse_2.12" conf="default, compile, runtime, master" rev="10.8.1" rev-constraint-default="10.8.1" rev-constraint-dynamic="10.8.1" callerrev="3.1.0"/>
+				<caller organisation="edu.holycross.shot" name="orca_2.12" conf="compile, runtime" rev="10.8.1" rev-constraint-default="10.8.1" rev-constraint-dynamic="10.8.1" callerrev="4.1.0"/>
+				<artifacts>
+					<artifact name="ohco2_2.12" type="jar" ext="jar" status="no" details="" size="145526" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/ohco2_2.12/jars/ohco2_2.12-10.8.1.jar">
+						<origin-location is-local="false" location="https://dl.bintray.com/neelsmith/maven/edu/holycross/shot/ohco2_2.12/10.8.1/ohco2_2.12-10.8.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="edu.holycross.shot" name="seqcomp_2.12">
+			<revision name="1.0.0" status="release" pubdate="20170422104441" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="5">
+				<license name="GPL-3.0" url="https://opensource.org/licenses/gpl-3.0.html"/>
+				<metadata-artifact status="no" details="" size="2891" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/seqcomp_2.12/ivy-1.0.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/edu/holycross/shot/seqcomp_2.12/1.0.0/seqcomp_2.12-1.0.0.pom"/>
+				<caller organisation="edu.holycross.shot" name="ohco2_2.12" conf="default, compile, runtime, master" rev="1.0.0" rev-constraint-default="1.0.0" rev-constraint-dynamic="1.0.0" callerrev="10.8.1"/>
+				<artifacts>
+					<artifact name="seqcomp_2.12" type="jar" ext="jar" status="no" details="" size="5814" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/seqcomp_2.12/jars/seqcomp_2.12-1.0.0.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/edu/holycross/shot/seqcomp_2.12/1.0.0/seqcomp_2.12-1.0.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="edu.holycross.shot" name="cex_2.12">
+			<revision name="6.2.1" status="release" pubdate="20180313124706" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="4">
+				<license name="GPL-3.0" url="https://opensource.org/licenses/gpl-3.0.html"/>
+				<metadata-artifact status="no" details="" size="2879" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/cex_2.12/ivy-6.2.1.xml" searched="false" origin-is-local="false" origin-location="https://dl.bintray.com/neelsmith/maven/edu/holycross/shot/cex_2.12/6.2.1/cex_2.12-6.2.1.pom"/>
+				<caller organisation="org.homermultitext" name="hmtcexbuilder_2.12" conf="default, compile, runtime, master" rev="6.2.1" rev-constraint-default="6.2.1" rev-constraint-dynamic="6.2.1" callerrev="3.1.1"/>
+				<caller organisation="edu.holycross.shot" name="ohco2_2.12" conf="default, compile, runtime, master" rev="6.2.1" rev-constraint-default="6.2.1" rev-constraint-dynamic="6.2.1" callerrev="10.8.1"/>
+				<caller organisation="edu.holycross.shot" name="scm_2.12" conf="compile, runtime" rev="6.2.1" rev-constraint-default="6.2.1" rev-constraint-dynamic="6.2.1" callerrev="6.1.0"/>
+				<caller organisation="edu.holycross.shot" name="citerelations_2.12" conf="default, compile, runtime, master" rev="6.2.1" rev-constraint-default="6.2.1" rev-constraint-dynamic="6.2.1" callerrev="2.2.0"/>
+				<caller organisation="edu.holycross.shot" name="citeobj_2.12" conf="compile, runtime" rev="6.2.1" rev-constraint-default="6.2.1" rev-constraint-dynamic="6.2.1" callerrev="7.0.2"/>
+				<artifacts>
+					<artifact name="cex_2.12" type="jar" ext="jar" status="no" details="" size="13727" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot/cex_2.12/jars/cex_2.12-6.2.1.jar">
+						<origin-location is-local="false" location="https://dl.bintray.com/neelsmith/maven/edu/holycross/shot/cex_2.12/6.2.1/cex_2.12-6.2.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang.modules" name="scala-xml_2.12">
+			<revision name="1.0.6" status="release" pubdate="20161101102105" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="3">
+				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
+				<metadata-artifact status="no" details="" size="2987" time="0" location="/Users/oxygen/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/ivy-1.0.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom"/>
+				<caller organisation="edu.holycross.shot" name="ohco2_2.12" conf="default, compile, runtime, master" rev="1.0.6" rev-constraint-default="1.0.6" rev-constraint-dynamic="1.0.6" callerrev="10.8.1"/>
+				<caller organisation="org.homermultitext" name="hmt-textmodel_2.12" conf="default, compile, runtime, master" rev="1.0.6" rev-constraint-default="1.0.6" rev-constraint-dynamic="1.0.6" callerrev="2.2.3"/>
+				<artifacts>
+					<artifact name="scala-xml_2.12" type="bundle" ext="jar" status="no" details="" size="547860" time="0" location="/Users/oxygen/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.6.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="edu.holycross.shot.cite" name="xcite_2.12">
+			<revision name="3.4.0" status="release" pubdate="20180529050916" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master, runtime(*), master(compile), compile(*)" position="1">
+				<license name="GPL-3.0" url="https://opensource.org/licenses/gpl-3.0.html"/>
+				<metadata-artifact status="no" details="" size="2890" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot.cite/xcite_2.12/ivy-3.4.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/edu/holycross/shot/cite/xcite_2.12/3.4.0/xcite_2.12-3.4.0.pom"/>
+				<caller organisation="org.homermultitext" name="hmtcexbuilder_2.12" conf="default, compile, runtime, master" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="3.1.1"/>
+				<caller organisation="edu.holycross.shot" name="ohco2_2.12" conf="default, compile, runtime, master" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="10.8.1"/>
+				<caller organisation="edu.holycross.shot" name="scm_2.12" conf="compile, runtime" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="6.1.0"/>
+				<caller organisation="edu.holycross.shot" name="citerelations_2.12" conf="default, compile, runtime, master" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="2.2.0"/>
+				<caller organisation="org.homermultitext" name="hmt-textmodel_2.12" conf="default, compile, runtime, master" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="2.2.3"/>
+				<caller organisation="default" name="iliad10-2018_2.12" conf="compile" rev="3.4.0" rev-constraint-default="3.4.0" rev-constraint-dynamic="3.4.0" callerrev="0.1-SNAPSHOT"/>
+				<caller organisation="edu.holycross.shot" name="dse_2.12" conf="default, compile, runtime, master" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="3.1.0"/>
+				<caller organisation="edu.holycross.shot" name="orca_2.12" conf="compile, runtime" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="4.1.0"/>
+				<caller organisation="edu.holycross.shot" name="citeobj_2.12" conf="compile, runtime" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="7.0.2"/>
+				<artifacts>
+					<artifact name="xcite_2.12" type="jar" ext="jar" status="no" details="" size="43009" time="0" location="/Users/oxygen/.ivy2/cache/edu.holycross.shot.cite/xcite_2.12/jars/xcite_2.12-3.4.0.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/edu/holycross/shot/cite/xcite_2.12/3.4.0/xcite_2.12-3.4.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+			<revision name="3.3.0" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master, default, default(compile)" position="-1">
+				<evicted-by rev="3.4.0"/>
+				<caller organisation="org.homermultitext" name="hmtcexbuilder_2.12" conf="default, compile, runtime, master" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="3.1.1"/>
+				<caller organisation="edu.holycross.shot" name="ohco2_2.12" conf="default, compile, runtime, master" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="10.8.1"/>
+				<caller organisation="edu.holycross.shot" name="scm_2.12" conf="compile, runtime" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="6.1.0"/>
+				<caller organisation="edu.holycross.shot" name="citerelations_2.12" conf="default, compile, runtime, master" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="2.2.0"/>
+				<caller organisation="org.homermultitext" name="hmt-textmodel_2.12" conf="default, compile, runtime, master" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="2.2.3"/>
+				<caller organisation="default" name="iliad10-2018_2.12" conf="compile" rev="3.4.0" rev-constraint-default="3.4.0" rev-constraint-dynamic="3.4.0" callerrev="0.1-SNAPSHOT"/>
+				<caller organisation="edu.holycross.shot" name="dse_2.12" conf="default, compile, runtime, master" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="3.1.0"/>
+				<caller organisation="edu.holycross.shot" name="orca_2.12" conf="compile, runtime" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="4.1.0"/>
+				<caller organisation="edu.holycross.shot" name="citeobj_2.12" conf="compile, runtime" rev="3.3.0" rev-constraint-default="3.3.0" rev-constraint-dynamic="3.3.0" callerrev="7.0.2"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.12.4" status="release" pubdate="20171011030456" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.4/" downloaded="false" searched="false" default="false" conf="default, master(*), compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="0">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2471" time="0" location="/Users/oxygen/.ivy2/cache/org.scala-lang/scala-library/ivy-2.12.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.4/scala-library-2.12.4.pom"/>
+				<caller organisation="org.homermultitext" name="hmtcexbuilder_2.12" conf="default, compile, runtime, master" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="3.1.1"/>
+				<caller organisation="edu.holycross.shot" name="seqcomp_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="1.0.0"/>
+				<caller organisation="edu.holycross.shot" name="scm_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="6.1.0"/>
+				<caller organisation="edu.holycross.shot" name="citerelations_2.12" conf="default, compile, runtime, master" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="2.2.0"/>
+				<caller organisation="org.homermultitext" name="hmt-textmodel_2.12" conf="default, compile, runtime, master" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="2.2.3"/>
+				<caller organisation="edu.holycross.shot" name="gsphone_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="1.1.0"/>
+				<caller organisation="edu.holycross.shot" name="cex_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="6.2.1"/>
+				<caller organisation="edu.holycross.shot" name="dse_2.12" conf="default, compile, runtime, master" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="3.1.0"/>
+				<caller organisation="edu.holycross.shot" name="greek_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="1.4.0"/>
+				<caller organisation="org.scala-lang.modules" name="scala-xml_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="1.0.6"/>
+				<caller organisation="edu.holycross.shot" name="ohco2_2.12" conf="default, compile, runtime, master" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="10.8.1"/>
+				<caller organisation="edu.holycross.shot.cite" name="xcite_2.12" conf="default, compile, runtime, master" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="3.4.0"/>
+				<caller organisation="default" name="iliad10-2018_2.12" conf="compile" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="0.1-SNAPSHOT"/>
+				<caller organisation="edu.holycross.shot" name="orca_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="4.1.0"/>
+				<caller organisation="edu.holycross.shot" name="citeobj_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="7.0.2"/>
+				<artifacts>
+					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="5247152" time="0" location="/Users/oxygen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar">
+						<origin-location is-local="false" location="UNKNOWN"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>
