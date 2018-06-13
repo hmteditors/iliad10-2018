@@ -48,6 +48,7 @@
                           <div n="ref">
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.1</p>
                           </div>
+
                           <div n="comment">
                               <p>εἰκότως ἀμφότερα γὰρ ὕπνου ἀγωγὰ καὶ ὁ ἐκ τῆς μάχης κάματος καὶ ἡ επι
                                   τῆ ἥττη δυσθυμία. <q>παρα νηυσὶ</q> δὲ λέγει. ἐπεὶ οἱ φύλακες ἐκτὸς
@@ -57,9 +58,8 @@
                                       <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:1.472</ref>
                                       <q>πανημέριοι</q>
                                   </cit>, εἴωθε τιθέναι, καὶ ἐπι τῶν κατα μέρος, <cit>
-                                      <q type="ref"
-                                          n="urn:cts:greekLit:tlg0012.tlg001.msA:23.105-23.106"
-                                          >παννυχίη γάρ μοι <persName n="urn:cite2:hmt:pers.r1:pers158"
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:23.105-23.106</ref>
+                                      <q>παννυχίη γάρ μοι <persName n="urn:cite2:hmt:pers.r1:pers158"
                                               >Πατροκλῆος</persName> δειλοῖο ψυχὴ ἐφεστήκει</q>
                                   </cit>, <cit>
                                       <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:7.476</ref>
@@ -1005,9 +1005,8 @@
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.105</p>
                           </div>
                           <div n="comment">
-                              <p>τὸ <q>νῦν</q> ἐνθάδε συσταλτέον δια τὸ μέτρον ὥσπερ καὶ επι τοῦ <cit>
-                                      <q type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:23.485">
-                                          δεῦρο νῦν ἡ τρίποδος</q>
+                              <p>τὸ <q>νῦν</q> ἐνθάδε συσταλτέον δια τὸ μέτρον ὥσπερ καὶ επι τοῦ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:23.485</ref>
+                                      <q>δεῦρο νῦν ἡ τρίποδος</q>
                                   </cit> ⁑</p>
                           </div>
                       </div>
@@ -1077,8 +1076,8 @@
                           </div>
                           <div n="comment">
                               <p>ὅτι τὸ πονέεσθαι ἐπι τοῦ ἐνεργεῖν, καθ εαυτὸ δὲ ἀναγνωστέον τὸ <q>ὡς
-                                      εὕδει</q> ἐν θαυμασμῷ: ἠ τοῖς ἄνω συναπτέον <cit type="ref"
-                                      n="urn:cts:greekLit:tlg0012.tlg001.msA:10.115">
+                                      εὕδει</q> ἐν θαυμασμῷ: ἠ τοῖς ἄνω συναπτέον <cit><ref type="urn">
+                                      urn:cts:greekLit:tlg0012.tlg001.msA:10.115</ref>
                                       <q>νεικέσω</q>
                                   </cit>
                                   <q>ὡς ευδει</q><del>ἐν θαυμασμῷ· ἠ τοῖς ἄνω συναπτέον</del></p>
@@ -1093,13 +1092,12 @@
                           </div>
                           <div n="comment">
                               <p>φιλαδέλφως ἀπολογεῖται δύο δέ ἐστι δι ὧν γράφει, ῥαθυμία, ἀμέλεια καὶ
-                                  ἄνοια καὶ ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title><choice>
+                                  ἄνοια καὶ ἐν <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><choice>
                                           <abbr>Οδ</abbr>
                                           <expan>Ὀδυσσείᾳ </expan>
-                                      </choice></title></ref>
-                                  <cit>
-                                      <q type="ref" n="urn:cts:greekLit:tlg0012.tlg002:4.371-372">
-                                          νήπιος. ἠὲ χαλίφρων ἠὲ ἑκών μεθίει</q>
+                                      </choice></ref></title>
+                                  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:4.371-4.372</ref>
+                                      <q>νήπιος. ἠὲ χαλίφρων ἠὲ ἑκών μεθίει</q>
                                   </cit> ὥστε τὸ δοκοῦν ἁμάρτημα εἰς εγκώμιον τῆς
                                           <w>π<unclear>ει</unclear>θαρχίας</w> περιΐσταται ⁑</p>
                           </div>
