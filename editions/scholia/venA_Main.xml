@@ -757,7 +757,7 @@
                       </div>
                       <div n="76" type="scholion">
                           <div n="lemma">
-                              <p>καὶ ἐγρήγορθαι ἄνωχθι:</p>
+                              <p>καὶ ἐγρήγορθαι ἄνωχθι·</p>
                           </div>
                           <div n="ref">
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.67</p>
@@ -774,7 +774,7 @@
                                       <expan>ἔχοντα</expan>
                                   </choice> προ <unclear>τοῦ</unclear>
                                   <rs type="waw">θ</rs> ἀμέταβολον, παροξύνεται. κεκάρται τετίλθαι
-                                  ἐσπάρθαι: μίαν μέντοι ἀφορμη ὁρῶ τοῦ δύνασθαι προπαροξύνεσθαι τὸ
+                                  ἐσπάρθαι· μίαν μέντοι ἀφορμη ὁρῶ τοῦ δύνασθαι προπαροξύνεσθαι τὸ
                                       <q>ἐγρήγορθαι</q>. τὸ τὰ εἰς <rs type="waw">θαι</rs>
                                   <choice>
                                       <abbr>λήγοντ</abbr>
@@ -1134,7 +1134,7 @@
 
                       <div n="1500" type="scholion">
                           <div n="lemma">
-                              <p>‡ ἐν φυλάκεσσ'ἵνα γάρ σφιν</p>
+                              <p>‡ ἐν φυλάκεσσ' ἵνα γάρ σφιν</p>
                           </div>
                           <div n="ref">
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.127</p>
@@ -3265,7 +3265,7 @@
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.428</p>
                           </div>
                           <div n="comment">
-                              <p>ἔθνος <placeName n="urn:cite2:hmt:place.r1:place70">Θρακῶν</placeName>
+                              <p>urn:cite2:hmt:vaimg.2017a:VA134VN_0636@0.3939,0.1412,0.4985,0.02158 <placeName n="urn:cite2:hmt:place.r1:place70">Θρακῶν</placeName>
                                   τινὲς δὲ φασὶ τοὺς νῦν καλουμένους <rs type="ethnic"
                                       n="urn:cite2:hmt:place.r1:place258">Παννονίους</rs> ἕτεροι δὲ <rs
                                       type="ethnic" n="urn:cite2:hmt:place.r1:place33">Μακεδόνας</rs>:</p>
@@ -3632,7 +3632,7 @@
                           </div>
                           <div n="comment">
                               <p>ταὐτόν ἐστι τὸ <q>δῆλον</q> δι ὃ καὶ τρίτη ἀπο τέλους ἡ ὀξεῖα καὶ
-                                  ψιλοῦται τὸ δεύτερον <rs type="waw">ε</rs> ἡ διπλῆ δέ ὃ ἡμεῖς
+                                  ψιλοῦται τὸ δεύτερον <rs type="waw">ε</rs> ἡ διπλῆ δὲ ὃ ἡμεῖς
                                   λέγομεν <q>δῆλον</q>, αὐτὸς εἶπεν διελὼν <q>διελον</q> ⁑</p>
                           </div>
 
@@ -4081,7 +4081,7 @@
                       </div>
                       <div n="4657" type="scholion">
                           <div n="lemma">
-                              <p>ὸν τεισκαιδέκατον: </p>
+                              <p>τὸν τεισκαιδέκατον: </p>
                           </div>
                           <div n="ref">
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.561</p>
