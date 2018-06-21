@@ -657,8 +657,8 @@
         <l n="430">πρὸς <placeName n="urn:cite2:hmt:place.r1:place246">Θύμβρης</placeName> δ' ἔλαχον <rs type="ethnic"
             n="urn:cite2:hmt:place.r1:place75">Λύκιοι</rs>- <rs type="ethnic"
             n="urn:cite2:hmt:place.r1:place20">Μυσοί</rs> τ' ἀγέρωχοι.</l>
-        <l n="431">καὶ <rs type="ethnic" n="urn:cite2:hmt:place.r1:place231">Φρύγες</rs> ἱ̈ππόδαμοι- καὶ
-            <rs type="ethnic" n="urn:cite2:hmt:place.r1:place87">Μῄονες</rs> ἱ̈πποκορυσταί-</l>
+        <l n="431">καὶ <rs type="ethnic" n="urn:cite2:hmt:place.r1:place231">Φρύγες</rs> ἱ+ππόδαμοι- καὶ
+            <rs type="ethnic" n="urn:cite2:hmt:place.r1:place87">Μῄονες</rs> ἱ+πποκορυσταί-</l>
         <l n="432">ἀλλὰ τί η <w><add place="supralinear">ἐ</add>μὲ</w> ταῦτα διεξερέεσθε ἕκαστα.</l>
         <l n="433">εἰ γὰρ δὴ μέματον <rs type="ethnic" n="urn:cite2:hmt:place.r1:place6">Τρώων</rs>
           καταδῦναι ὅμιλον.</l>
@@ -680,10 +680,10 @@
         <l n="447">μὴ δή μοι φύξίν γε <persName n="urn:cite2:hmt:pers.r1:pers474">Δόλων</persName> ἐμβάλλεο θυμῷ</l>
         <l n="448">ἐσθλά περ ἀγγείλας. ἐπεὶ ΐκεο χεῖρας ἐς ἁμάς</l>
         <l n="449">εἰ μὲν γάρ κέ σε νῦν ἀπολύσομεν. ἠὲ μεθῶμεν.</l>
-        <l n="450">ἦ´ τε καὶ ὕστερον εῖσθα θοὰς ἐπὶ νῆας <rs type="ethnic"
+        <l n="450">ἦ/ τε καὶ ὕστερον εῖσθα θοὰς ἐπὶ νῆας <rs type="ethnic"
             n="urn:cite2:hmt:place.r1:place96">Ἀχαιῶν</rs>.</l>
         <l n="451">ἠὲ διοπτεύσων. ἢ ἐναντίβιον πολεμίξων-</l>
-        <l n="452">εἰ δέ κ' ἐμῇ´ς ὑπο- χερσὶ δαμεὶς. ἀπο θυμὸν ὀλέσσῃς-</l>
+        <l n="452">εἰ δέ κ' ἐμῇ/ς ὑπο- χερσὶ δαμεὶς. ἀπο θυμὸν ὀλέσσῃς-</l>
         <l n="453">οὐκέτ' ἔπειτα σὺ πῆμά ποτ' ἔσσεαι <rs type="ethnic"
             n="urn:cite2:hmt:place.r1:place114">Ἀργείοισιν</rs>-</l>
         <l n="454">ῆ- καὶ ὁ μέν μιν ἔμελλε γενείου χειρὶ παχείῃ</l>
@@ -698,7 +698,7 @@
         <l n="462">χαῖρε θεὰ τοῖσδεσσι- σὲ γὰρ πρώτην ἐν <placeName n="urn:cite2:hmt:place.r1:place45"
             >Ὀλύμπῳ</placeName></l>
         <l n="463">πάντων ἀθανάτων ἐπιβωσόμεθ'- ἀλλὰ καὶ αὖτις</l>
-        <l n="464">πέ´μψον ἐπὶ <rs type="ethnic" n="urn:cite2:hmt:place.r1:place70">Θρῃκῶν</rs> ἀνδρῶν
+        <l n="464">πέ/μψον ἐπὶ <rs type="ethnic" n="urn:cite2:hmt:place.r1:place70">Θρῃκῶν</rs> ἀνδρῶν
           ἵππους τε καὶ εὐνάς:</l>
         <l n="465">ὡς <choice>
             <sic>άρ'</sic>
@@ -767,7 +767,7 @@
           ἀπὸ θυμὸν ἕλοιτο-</l>
         <l n="507">ἕως ὃ ταῦθ' ὥρμαινε κατὰ φρένα, τόφρα δ' <persName n="urn:cite2:hmt:pers.r1:pers67"
             >Ἀθήνη</persName></l>
-        <l n="508">ἐγγύθεν ἱ̈σταμένη προσέφη <persName n="urn:cite2:hmt:pers.r1:pers215"
+        <l n="508">ἐγγύθεν ἱ+σταμένη προσέφη <persName n="urn:cite2:hmt:pers.r1:pers215"
             >Διομήδεα</persName> δῖον-</l>
         <l n="509">νόστου δὴ μνῆσαι μεγαθύμου <persName n="urn:cite2:hmt:pers.r1:pers251"
             >Τυδέος</persName> υἱὲ</l>
@@ -786,7 +786,7 @@
         <l n="517">τῇ κοτέων, <rs type="ethnic" n="urn:cite2:hmt:place.r1:place6">Τρώων</rs> κατεδύσετο
           πουλὺν ὅμιλον-</l>
         <l n="518">ὦρσεν δὲ <rs type="ethnic" n="urn:cite2:hmt:place.r1:place70">Θρῃκῶν</rs> βουληφόρον
-            <persName n="urn:cite2:hmt:pers.r1:pers477">Ἱ̈πποκόωντα</persName>-</l>
+            <persName n="urn:cite2:hmt:pers.r1:pers477">Ἱ+πποκόωντα</persName>-</l>
         <l n="519"><persName n="urn:cite2:hmt:pers.r1:pers452">Ῥήσου</persName> ἀνεψιὸν ἐσθλόν- ὁ δ' ἐξ
           ύπνου ἀνορούσας.</l>
         <l n="520">ὡς ἴ+δε χῶρον ἐρῆμον. ὅθ' έστασαν ὠκέες ἵπποι.</l>
@@ -796,7 +796,7 @@
           ἄσπετος ὦρτο κυδοιμὸς</l>
         <l n="524">θυνόντων ἄμυδις. θηεῦντο δὲ μέρμερα ἔργα-</l>
         <l n="525">ὅσσ' ἄνδρες ῥέξαντες, ἔβαν κοίλας ἐπὶ νῆας-</l>
-        <l n="526">οἱ δ`' ὅτε δή ῥ' ΐκανον, ὅθι σκοπὸν <persName n="urn:cite2:hmt:pers.r1:pers172"
+        <l n="526">οἱ δ\' ὅτε δή ῥ' ΐκανον, ὅθι σκοπὸν <persName n="urn:cite2:hmt:pers.r1:pers172"
             >Ἕκτορος</persName> ἔκταν.</l>
         <l n="527">ἔνθ'. <persName n="urn:cite2:hmt:pers.r1:pers118">Ὀδυσεὺς</persName> μὲν ἔρυξε
             <persName n="urn:cite2:hmt:pers.r1:pers8">Διῒ</persName> φίλος, ὠκέας ἵ+ππους.</l>
@@ -822,7 +822,7 @@
         <l n="541">καί ῥ' οἱ μὲν κατέβησαν ἐπὶ χθόνα, τοὶ δὲ χαρέντες</l>
         <l n="542">δεξιῇ ἠσπάζοντο- ἔπεσσί τε μειλιχίοισι-</l>
         <l n="543">πρῶτος δ' ἐξερέεινε <rs type="ethnic" n="urn:cite2:hmt:place.r1:place115"
-            >Γερήνιος</rs> ἱ̈ππότα <persName n="urn:cite2:hmt:pers.r1:pers117">Νέστωρ</persName>-</l>
+            >Γερήνιος</rs> ἱ+ππότα <persName n="urn:cite2:hmt:pers.r1:pers117">Νέστωρ</persName>-</l>
         <l n="544">εἰπ' άγε μ' ὦ πολύαιν' <persName n="urn:cite2:hmt:pers.r1:pers118">Ὀδυσεῦ</persName>.
           μέγα κῦδος <rs type="ethnic" n="urn:cite2:hmt:place.r1:place96">Ἀχαιῶν</rs>.</l>
         <l n="545">ὅππως τοῦσδ' ἵ+ππους λάβετον. καταδύντες ὅμιλον</l>
@@ -858,10 +858,10 @@
         <l n="564">ὡς εἰπὼν. τάφροιο διήλασε μώνυχας ἵ+ππους</l>
         <l n="565">καγχαλόων; ἅμα δ' ἄλλοι ΐσαν χαίροντες <rs type="ethnic"
             n="urn:cite2:hmt:place.r1:place96">Ἀχαιοί</rs>-</l>
-        <l n="566">οἱ δ`' ὅτε <persName n="urn:cite2:hmt:pers.r1:pers215">Τυδείδεω</persName> κλισίην
+        <l n="566">οἱ δ'\ ὅτε <persName n="urn:cite2:hmt:pers.r1:pers215">Τυδείδεω</persName> κλισίην
           εὔτυκτον ἵ+κοντο.</l>
-        <l n="567">ἵ+ππους μὲν κατέδησαν ἐϋτμήτοισιν ἱ̈μᾶσι</l>
-        <l n="568">φάτνῃ ἐφ' ἱ̈ππείῃ ὅθι περ <persName n="urn:cite2:hmt:pers.r1:pers215"
+        <l n="567">ἵ+ππους μὲν κατέδησαν ἐϋτμήτοισιν ἱ+μᾶσι</l>
+        <l n="568">φάτνῃ ἐφ' ἱ+ππείῃ ὅθι περ <persName n="urn:cite2:hmt:pers.r1:pers215"
             >Διομήδεος</persName> ἵ+πποι</l>
         <l n="569">έστασαν ὠκύποδες. μελιηδέα πυρὸν ἔδοντες-</l>
         <l n="570">νηῒ δ' ἐνι πρυμνῇ έναρα βροτόεντα <persName n="urn:cite2:hmt:pers.r1:pers474">Δόλωνος</persName></l>

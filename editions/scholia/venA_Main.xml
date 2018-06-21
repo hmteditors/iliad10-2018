@@ -2196,7 +2196,7 @@
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.277</p>
                           </div>
                           <div n="comment">
-                              <p> ὅτι ἐπὶ τῷ ὄρνη̈θι καὶ ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title
+                              <p> ὅτι ἐπὶ τῷ ὄρνη+θι καὶ ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title
                                       >Ὀδυσσείᾳ</title></ref>
                                   <cit>
                                       <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:19.537</ref>
@@ -2358,7 +2358,7 @@
                                       <q>ψαύσῃ δ' ἐνδίνων διά τ' ἔντεα</q>
                                   </cit>. καὶ ὅτι πτῶσις ἐνήλλακται <q>δι' ἐντέων καὶ μέλανος
                                       αἵματος</q>: καὶ πρὸς <placeName n="urn:cite2:hmt:place.r1:place105"
-                                      >Ί̈στρον</placeName> ὅτι οὐ γέγονεν νεκρῶν ἀναίρεσις. εἰ μὴ ἅπαξ
+                                      >Ί+στρον</placeName> ὅτι οὐ γέγονεν νεκρῶν ἀναίρεσις. εἰ μὴ ἅπαξ
                                   ⁑</p>
                           </div>
 
@@ -2400,7 +2400,7 @@
                                   μόριον ἐπι τοῦ μεγάλου τίθεται ὡς καὶ τὸ <rs type="waw">ζα</rs>. καὶ
                                   ἐνταῦθα δὲ τὸ ἀσύνετον τοῦ <persName n="urn:cite2:hmt:pers.r1:pers172"
                                       >Ἕκτορος</persName> φαίνεται ὑπισχνουμένου τοὺς <persName
-                                      n="urn:cite2:hmt:pers.r1:pers1">Αχιλλέως</persName> ἵππους οὖs
+                                      n="urn:cite2:hmt:pers.r1:pers1">Αχιλλέως</persName> ἵππους οὖς
                                   ἀδύνατον ἦν λαβεῖν ⁑</p>
                           </div>
                       </div>
@@ -2517,7 +2517,7 @@
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.329</p>
                           </div>
                           <div n="comment">
-                              <p>ἐπιστάσθω γινωσκέτω μαρτυρείτῳ: ἵστωρ γὰρ ὁ μάρτυς: <cit>
+                              <p>ἐπιστάσθω γινωσκέτω μαρτυρείτῳ: ί+στωρ γὰρ ὁ μάρτυς: <cit>
                                       <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.486</ref>
                                       <q>ἵστορα δ' <persName n="urn:cite2:hmt:pers.r1:pers22">Ατρείδην
                                               Ἀγαμέμνονα</persName></q>
@@ -2621,7 +2621,7 @@
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.335</p>
                           </div>
                           <div n="comment">
-                              <p>ἡ ἐξίκτιδος δέρματος πεποιημένῃ <q>ί̈κτις</q> δὲ ἐστι ζῷον
+                              <p>ἡ ἐξίκτιδος δέρματος πεποιημένῃ <q>ί+κτις</q> δὲ ἐστι ζῷον
                                   ὀρνιθοφάγον καὶ πανοῦργον μείζων μὲν γαλῆς: παραπλήσιον δὲ καὶ
                                   δασύτερον οἱ δὲ τὴν αγρίαν γαλὴν εῖπον ⁑</p>
                           </div>
@@ -3186,8 +3186,8 @@
                                   ἡ <choice>
                                       <abbr>πο</abbr>
                                       <expan>πόλις</expan>
-                                  </choice><placeName n="urn:cite2:hmt:place.r1:place6"
-                                      >Ί̈̈̈̈̈̈̈λιος</placeName> ἐκλήθη. παρα σήματι δὲ, παρα τῶ τάφω
+                                  </choice><placeName n="urn:cite2:hmt:place.r1:place6">
+                                      Ἰ+λιος</placeName> ἐκλήθη. παρα σήματι δὲ, παρα τῶ τάφω
                                   ἢν γὰρ μέσσον καπ πεδίον- ἀπέχει δὲ τῆς <choice>
                                       <abbr>πο</abbr>
                                       <expan>πολέως</expan>
@@ -3913,7 +3913,7 @@
                       </div>
                       <div n="4610" type="scholion">
                           <div n="lemma">
-                              <p>ὡς ί̈δε χῶρον ἔρημόν: </p>
+                              <p>ὡς ί+δε χῶρον ἔρημόν: </p>
                           </div>
                           <div n="ref">
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.520</p>
@@ -3923,8 +3923,8 @@
                                   ἐναλλὰξ τῷ τόπῳ τούτῳ τίθησιν <cit>
                                       <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.519</ref>
                                       <q>ὁ δ' εξ ύπνους ἀνορούσας</q>
-                                  </cit> ὥμοξεν <q>τ ὰρ ἔπειτα</q>: ὡς ί̈δε χωρον ερημον <q>ἄνδρας τ'
-                                      ἀπαίροντας</q> πρῶτα δὲ ἰ̈δόντα ἔδει κλαίειν ⁑</p>
+                                  </cit> ὥμοξεν <q>τ ὰρ ἔπειτα</q>: ὡς ί+δε χωρον ερημον <q>ἄνδρας τ'
+                                      ἀπαίροντας</q> πρῶτα δὲ ἰ+δόντα ἔδει κλαίειν ⁑</p>
                           </div>
 
                       </div>
@@ -4068,7 +4068,7 @@
                       </div>
                       <div n="4656" type="scholion">
                           <div n="lemma">
-                              <p><rs type="ethnic" n="urn:cite2:hmt:place.r1:place70">θρηΐκιοι</rs>: τὸν
+                              <p><rs type="ethnic" n="urn:cite2:hmt:place.r1:place70">θρηΐκιοι</rs>- τὸν
                                   δέ σφιν:</p>
                           </div>
                           <div n="ref">
@@ -4104,7 +4104,7 @@
                       </div>
                       <div n="4658" type="scholion">
                           <div n="lemma">
-                              <p>νηῒ δ' ἐνι πρύμνη:</p>
+                              <p>νηῒ δ' ἐνι πρύμνη-</p>
                           </div>
                           <div n="ref">
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.570</p>
@@ -4130,7 +4130,7 @@
                       </div>
                       <div n="4660" type="scholion">
                           <div n="lemma">
-                              <p>ἐσβάντες κνήμας τε ἰδὲ λόφον:</p>
+                              <p>ἐσβάντες κνήμας τε ἰδὲ λόφον-</p>
                           </div>
                           <div n="ref">
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.573</p>
