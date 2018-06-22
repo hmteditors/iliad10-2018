@@ -414,7 +414,7 @@
                         <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.199</p>
                     </div>
                     <div n="comment">
-                        <p> προς ί̈στρον <choice>
+                        <p> προς ί+στρον <choice>
                                 <abbr>οτ</abbr>
                                 <expan>ὅτι</expan>
                             </choice> οὐ γέγονε νεκρῶν ἀναίρεσις : </p>

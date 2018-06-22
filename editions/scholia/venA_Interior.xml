@@ -124,7 +124,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.118</p>
                       </div>
                       <div n="comment">
-                          <p>ὅτι <q>ἀνεκτὸς</q> ἡ χρεια οὐκ ανεκτη : </p>
+                          <p>ὅτι <q>ἀνεκτὸσ</q> ἡ χρεια οὐκ ανεκτη : </p>
                       </div>
                   </div>
                   <div n="1014" type="scholion">
@@ -288,10 +288,10 @@
                       </div>
                       <div n="comment">
                           <p><persName n="urn:cite2:hmt:pers.r1:pers16"><choice>
-                                      <abbr>Αρισαρχ</abbr>
+                                      <abbr>Αρισταρχ</abbr>
                                       <expan>Ἀρίσταρχος</expan>
                                   </choice></persName>
-                              <q>άλοφον</q>· </p>
+                              <q>άλοφον</q>-</p>
                       </div>
                   </div>
                   <div n="2517" type="scholion">
