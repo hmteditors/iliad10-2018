@@ -2511,7 +2511,7 @@
 
                       <div n="3500" type="scholion">
                           <div n="lemma">
-                              <p>‡ἵ̈στω: </p>
+                              <p>‡ἵ+στω: </p>
                           </div>
                           <div n="ref">
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.329</p>
@@ -3265,7 +3265,7 @@
                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.428</p>
                           </div>
                           <div n="comment">
-                              <p>urn:cite2:hmt:vaimg.2017a:VA134VN_0636@0.3939,0.1412,0.4985,0.02158 <placeName n="urn:cite2:hmt:place.r1:place70">Θρακῶν</placeName>
+                              <p><placeName n="urn:cite2:hmt:place.r1:place70">Θρακῶν</placeName>
                                   τινὲς δὲ φασὶ τοὺς νῦν καλουμένους <rs type="ethnic"
                                       n="urn:cite2:hmt:place.r1:place258">Παννονίους</rs> ἕτεροι δὲ <rs
                                       type="ethnic" n="urn:cite2:hmt:place.r1:place33">Μακεδόνας</rs>:</p>
