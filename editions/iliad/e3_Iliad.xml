@@ -9,7 +9,7 @@
         <editor>SECOND EDITOR's NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
-        <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
+        <p>Unpublished edition of the E3 manuscript for the Homer Multitext project</p>
       </publicationStmt>
       <sourceDesc>
         <p>Edited directly from photography of the manuscript</p>
@@ -18,8 +18,8 @@
   </teiHeader>
   <text>
     <body>
-      <div n="24">
-        <l n="1">λῦτο δ᾽ ἀγών, λαοὶ δὲ θοὰς ἐπὶ νῆας ἕκαστοι</l>
+      <div n="10">
+        <l n="1"></l>
       </div>
     </body>
   </text>
