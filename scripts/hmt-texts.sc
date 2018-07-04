@@ -19,7 +19,6 @@ val greekCpMap = Map (
   '\u03ce'.toInt -> '\u1f7d', // omega
   // elision
   '\u1fbd'.toInt -> '\u0027'
-
 )
 
 // HMT definitions that should be moved into a proper class
